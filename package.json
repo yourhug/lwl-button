@@ -1,6 +1,22 @@
 {
   "name": "lwl-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourhug/lwl-button"
+  },
+  "bugs": {
+    "url": "https://github.com/yourhug/lwl-button/issues"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "npm",
+    "yarn",
+    "button"
+  ],
+  "author": "yourhug",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
